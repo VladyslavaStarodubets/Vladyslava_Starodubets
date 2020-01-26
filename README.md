@@ -1,5 +1,4 @@
-<b> O'Reilly Media (formerly O'Reilly & Associates) is a learning company established by Tim O'Reilly that publishes books, produces tech conferences, and provides an online learning platform. Their distinctive brand features a woodcut of an animal on many of their book covers.</b> 
+<b> O’Reilly (O’Reilly Media, ранее — O’Reilly & Associates) — американская издательская компания, основанная Тимом О’Райли в 1978 году. Изначально специализировалась на заказном написании технической документации для программных продуктов, при этом с 1984 года начала сохранять права на руководства по Unix, созданные по заказу ряда вендоров, постепенно сменив профиль на издательскую деятельность, и начав выпускать техническую литературу розничными тиражами. </b> 
 
 
-![csharp_book](сsharp.jpg)  
-C# is a general-purpose, multi-paradigm programming language encompassing strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines.
+![books](orelly.png)
